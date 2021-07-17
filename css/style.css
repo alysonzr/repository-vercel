@@ -1,0 +1,48 @@
+.nav-link{
+	color: #111;
+	
+}
+.nav-item{
+	padding-right:21px;
+}
+
+.navbar-brand{
+	color: #111;
+	font-weight:600;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+
+.py-5 {
+    padding-top: 15rem!important;
+    padding-bottom: 3rem!important;
+}
+
+a:hover{
+    color: #fe3638;
+    text-decoration: none;
+}
+
+.search:hover{
+	background-color: #fe3638;
+	color: white;
+}
+
+
+.btn-danger {
+    color: #000;
+    background-color: #fe696a;
+    border-color: #fe696a;
+    box-shadow: unset;
+}
+
+.dropdown-toggle{
+	color: #fe696a;
+    box-shadow: unset;
+    text-decoration: none;
+}
+
+#btnIndex{
+	padding: 9px 29px;
+}
